@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MughilganeshB
-- 👀 I’m interested in python languages
-- 🌱 I’m currently learning darq
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested in python, SQL, PowerBI
 - 📫 How to reach me mughilganesh@gmail.com
 
 <!---
